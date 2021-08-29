@@ -9,6 +9,7 @@ please don't contact me for illegal deals with bitcoin or something like that, i
 all product downloaded as free open source but i'm don't 100 percent sure about it. if i find something without public licence in my code i will change it. but till then you have to checked it.most of code is based on worpress and laravel with public licence. so you shuden't worry but you should check it befor used it.  
 - 👋 licence of AttendanceAPP checked for used in iran. please chacked it you self if you'r not in iran.
 - ⚠️ ui of AttendanceAPP under develop so it can 100 percent change from this in future. and there is no support for old version.
+- all image in all projects are freom freepic <a href='https://www.freepik.com/photos/school'>School photo created by freepik - www.freepik.com</a>
 
 ```
 echo "# swiper-slider" >> README.md
